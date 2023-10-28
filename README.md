@@ -46,7 +46,7 @@ To run the project, ensure you have the following dependencies installed:
 
 Experiment with different prompts and settings to generate images that align with your specific needs.
 
-Contributors
+# Contributors
 
  Nishtha Jain
  Diksha Chakravarty
