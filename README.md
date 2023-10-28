@@ -1,4 +1,4 @@
-# Hacktonauts-Synthetic-DataGeneration-Challenge
+# Hacktonauts(Team 6)-Synthetic-DataGeneration-Challenge
 
 Data is an indispensable resource with several varied applications across diverse sectors and industries. Its significance stems from its role in furnishing raw information and knowledge, thereby underpinning the foundations of informed decision-making and problem-solving. Whether in business operations, government policies, or personal contexts, data serves as the basis for evaluating options and devising strategies to address challenges and seize opportunities. It facilitates performance measurement, research, and analysis, making it indispensable for scientific investigations and market studies.
 
