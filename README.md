@@ -19,6 +19,10 @@ The pre-trained model weights are available for public use, enabling the generat
 # Image Refinement
 
 In addition to model testing, an image refinement process is provided. This refiner, based on SDXL base 1.0, allows users to further enhance the generated images by applying additional prompts and adjustments to meet specific requirements. The refiner takes in the current image, and uses the control mechanisms to improve the initial image.
+![refinement pic](https://github.com/diksha-ashkid/Hacktonauts-Synthetic-AI-Generated-Dataset-Algorithm/assets/89176434/92edf633-f416-4e28-bbf5-8fe048e3f0c4)
+
+
+
 
 # Running the Project
 
