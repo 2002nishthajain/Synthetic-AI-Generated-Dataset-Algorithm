@@ -5,6 +5,9 @@ Data is an indispensable resource with several varied applications across divers
 
 The task at hand is to develop a sophisticated algorithm capable of generating photorealistic images that represent the intricacies of urban driving scenes in India. These images should encapsulate the true-to-life complexities that drivers encounter on Indian roads, consisting of elements such as traffic congestion, unexpected road occurrences, and varying weather conditions. Our objective is to craft an algorithm that not only reproduces these aspects but also incorporates inherent control mechanisms, offering the ability to manipulate and fine-tune any or all of the mentioned factors while ensuring the photorealism of the output. In the pursuit of this goal, the resulting deliverable is anticipated to be a comprehensive dataset. Each image will be a meticulously crafted representation of an Indian driving scenario, taking into account the multitude of variables that define the ever-evolving and dynamic nature of road scenes in the Indian urban landscape. This undertaking represents a significant step towards generating synthetic data that closely mirrors the realities of driving on Indian roads, with a focus on realism, diversity, and contextual relevance.
 
+![cHANGES THINGS](https://github.com/diksha-ashkid/Hacktonauts-Synthetic-AI-Generated-Dataset-Algorithm/assets/89176434/6dc815aa-17ed-4d04-a0b5-3a5eca6d0182)
+
+
 
 # Dataset
 
