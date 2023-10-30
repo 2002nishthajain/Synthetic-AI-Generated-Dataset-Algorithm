@@ -54,10 +54,9 @@ To run the project, ensure you have the following dependencies installed:
 Experiment with different prompts and settings to generate images that align with your specific needs.
 
 # Contributors
-
- Nishtha Jain
- Diksha Chakravarty
- Aakash Rajaraman
+ Diksha Chakravarty 
+ Aakash Rajaraman 
+ Nishtha Jain 
  A. Ananya
 
 This project is a valuable resource for the research community and those interested in working with Indian road images and image generation models.
