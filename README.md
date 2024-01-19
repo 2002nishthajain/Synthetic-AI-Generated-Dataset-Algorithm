@@ -7,7 +7,7 @@ The task at hand is to develop a sophisticated algorithm capable of generating p
 
 ![cHANGES THINGS](https://github.com/diksha-ashkid/Hacktonauts-Synthetic-AI-Generated-Dataset-Algorithm/assets/89176434/6dc815aa-17ed-4d04-a0b5-3a5eca6d0182)
 
-
+#Synthetic AI Generated Dataset Algorithm
 ![Synthetic-AI-Generated-Dataset-Algorithm](https://github.com/2002nishthajain/Synthetic-AI-Generated-Dataset-Algorithm/assets/79302868/e0c5011c-36f3-48f0-ab89-03c5f139eb8d)
 
 
